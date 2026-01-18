@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:52:25.883Z",
+  "generated_at": "2026-10-21T03:52:27.713Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,58 @@
       "last_pushed_at": "2026-01-17T07:55:03.338Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-01-18T05:32:14.678Z",
+      "last_pushed_at": "2026-01-18T05:32:14.678Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-01-18T06:02:31.541Z",
+      "last_pushed_at": "2026-01-18T06:02:31.541Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-01-18T06:16:37.497Z",
+      "last_pushed_at": "2026-01-18T06:16:37.497Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-01-18T06:21:42.973Z",
+      "last_pushed_at": "2026-01-18T06:21:42.973Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
